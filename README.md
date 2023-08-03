@@ -15,3 +15,7 @@ Jika ingin lebih clean sebenarnya bisa ditambahkan layer services dimana fungsin
 
 berikut hasil demo untuk project yang saya buat
 
+
+
+https://github.com/YusufHusain243/Yusuf_Husain-Tes_Teknis_Programmer/assets/74952343/1abf3054-09ef-437e-8d1e-9fe7291bdb6b
+
